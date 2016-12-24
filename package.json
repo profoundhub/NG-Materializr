@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "angular2-materialize": "^6.3.0",
+    "jquery": "2.2.4",
     "materialize-css": "^0.97.8"
   }
 }
