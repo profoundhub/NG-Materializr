@@ -1,12 +1,12 @@
 {
   "name": "ng-materilizr",
   "version": "1.0.0",
-  "description": "",
+  "description": "Angular + Materializer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Daniel Lim",
   "license": "ISC",
   "dependencies": {
     "angular2-materialize": "^6.3.0",
