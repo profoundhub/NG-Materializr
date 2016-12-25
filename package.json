@@ -1,0 +1,16 @@
+{
+  "name": "ng-materilizr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular2-materialize": "^6.3.0",
+    "jquery": "2.2.4",
+    "materialize-css": "^0.97.8"
+  }
+}
